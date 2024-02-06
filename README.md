@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fedu.varistor.in%2Ffrontend-vs-backend-vs-full-stack-web-development%2F&psig=AOvVaw3UsjZz-tkTN5smFk7AU4dq&ust=1707289714860000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPi-l_2TloQDFQAAAAAdAAAAABAJ)]
 <h1 align="center">Hi 👋, I'm Tokhirkhuja</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
