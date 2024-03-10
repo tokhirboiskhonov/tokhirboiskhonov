@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tokhirboiskhonov&label=Profile%20views&color=0e75b6&style=flat" alt="tokhirboiskhonov" /> </p>
 
-- 🔭 I’m currently working on **Nova-Plastik**
+- 🔭 I’m currently working in **Onur Company**
 
 - 🌱 I’m currently learning **JavaScript, ReactJS and NextJS**
 
